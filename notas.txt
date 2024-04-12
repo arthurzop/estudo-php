@@ -1,0 +1,5 @@
+conexao.php:
+
+declarar server, user, password e database (baseado no xampp)
+
+condição se conectou ou nao
